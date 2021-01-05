@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DressUp!</string>
+    <string name="start_camera">Camera</string>
+    <string name="start_gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result"><b>Result</b></string>
+</resources>
